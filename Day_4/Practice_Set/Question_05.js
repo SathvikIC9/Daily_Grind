@@ -1,0 +1,3 @@
+let a = "Harry"
+a[3]="a"
+console.log(a)// strings are immutable so u cant change it ...
